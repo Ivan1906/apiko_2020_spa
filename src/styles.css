@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+
+button {
+  margin-left: 5px;
+}
+
+li {
+  padding: 2px 0;
+  text-decoration: underline;
+  max-width: fit-content;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+#display_content {
+  margin-top: 8px;
+}
+
+#recommendations_block li {
+  text-decoration: none;
+  cursor: none;
+}
